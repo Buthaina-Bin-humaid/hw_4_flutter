@@ -10,4 +10,4 @@ This project was created as an **assignment for a Flutter Bootcamp** to practice
 * Dart
 
 ## Page
-<img width="239" height="509" alt="image" src="https://github.com/user-attachments/assets/ea62743f-b8ce-423c-97fa-47e81f2ca0dd" />
+<img width="307" height="654" alt="image" src="https://github.com/user-attachments/assets/939ff19b-5283-4279-a746-266312fce4bb" />
