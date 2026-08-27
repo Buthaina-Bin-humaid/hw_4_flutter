@@ -1,17 +1,12 @@
-# hw_4_flutter
+# Pet Adoption 🐾
 
-A new Flutter project.
+A simple **single-page Pet Adoption UI** built using Flutter.
 
-## Getting Started
+This project was created as an **assignment for a Flutter Bootcamp** to practice the basic Flutter concepts learned during the bootcamp.
 
-This project is a starting point for a Flutter application.
+## Built With
 
-A few resources to get you started if this is your first Flutter project:
+* Flutter
+* Dart
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Page
